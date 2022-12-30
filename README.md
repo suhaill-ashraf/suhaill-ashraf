@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Suhail Ashraf</h1>
 <h3 align="center">A passionate Full stack developer from J&K India</h3>
-<img src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif" width="400px"alt="">
+< align="right"> img src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif" width="400px"alt="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suhaill-ashraf&label=Profile%20views&color=0e75b6&style=flat" alt="suhaill-ashraf" /> </p>
 
