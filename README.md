@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suhaill-ashraf&label=Profile%20views&color=0e75b6&style=flat" alt="suhaill-ashraf" /> </p>
 
-- 🌱 I’m currently learning *Vue.js*
+- 🌱 I’m currently learning *React.js*
 
 - 📫 How to reach me *suhaillashraf@yahoo.com*
 
